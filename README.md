@@ -9,6 +9,8 @@ In this project you will build such a pipeline.
 ## Weights and Balances (CoreWeave) Report
 https://forge.coreweave.com/wandb/kyla-styles-western-governors-university/nyc_airbnb/reports/Untitled-Report--VmlldzoxODI3OTc5NQ
 
+## Github Link
+https://github.com/kylastyles/Project-Build-an-ML-Pipeline-Starter 
 
 ## Table of contents
 
