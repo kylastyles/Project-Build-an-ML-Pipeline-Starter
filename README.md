@@ -6,6 +6,10 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Weights and Balances (CoreWeave) Report
+https://forge.coreweave.com/wandb/kyla-styles-western-governors-university/nyc_airbnb/reports/Untitled-Report--VmlldzoxODI3OTc5NQ
+
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
